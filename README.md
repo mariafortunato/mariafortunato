@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**mariafortunato/mariafortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 font-size="12px" align="center"> Olá, eu sou Maria 👩‍💻 </h2>
+<div> 
+  <ul>
+    <li> Sou estudante do curso de Análise e Desenvolvimento de Sistemas.</li>
+    <li> Inicialmente estudava desenvolvimento web com HTML, CSS, JS, fiz até alguns cursos online.</li>
+    <li> Mas atualmente estudo desenvolvimento mobile com kotlin. </li>
+  </ul>
+ </div>
+<div align="center"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafortunato&theme=bear&show_icons=true"/>
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariafortunato&layout=compact&langs_count=7&theme=bear"/>
+</div>
+<div> 
+  <h3 align="left">Conectar-se comigo</h3>
+ <div>
+   <a href="www.linkedin.com/in/marialicefortunato/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+   </a> 
+   <a href="malice.rfort@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+   </a>   
+   <a href="t.me/mariafortunato"> 
+     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
+   </a>
+   <a href="https://www.instagram.com/fortunato.mariaa/"> 
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+   </a>
+</div>
