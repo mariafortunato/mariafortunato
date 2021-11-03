@@ -10,9 +10,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafortunato&theme=bear&show_icons=true"/>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariafortunato&layout=compact&langs_count=7&theme=bear"/>
 </div>
-<div> 
-  <h3 align="left">Conectar-se comigo</h3>
- <div>
+
+## <div>
    <a href="www.linkedin.com/in/marialicefortunato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
    </a> 
