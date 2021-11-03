@@ -2,7 +2,7 @@
 <div> 
   <ul>
     <li> Sou estudante do curso de Análise e Desenvolvimento de Sistemas.</li>
-    <li> Inicialmente estudava desenvolvimento web com HTML, CSS, JS, fiz até alguns cursos online.</li>
+    <li> Inicialmente estudava desenvolvimento web com HTML, CSS e JS.</li>
     <li> Mas atualmente estudo desenvolvimento mobile com kotlin. </li>
   </ul>
  </div>
