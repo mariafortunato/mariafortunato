@@ -6,7 +6,7 @@
     <li> Mas atualmente estudo desenvolvimento mobile com kotlin. </li>
   </ul>
  </div>
-<div align="center"> 
+ <div align="center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafortunato&theme=bear&show_icons=true"/>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariafortunato&layout=compact&langs_count=7&theme=bear"/>
 </div>
