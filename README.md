@@ -16,7 +16,7 @@
    <a href="www.linkedin.com/in/marialicefortunato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
    </a> 
-   <a href="malice.rfort@gmail.com" target="_blank">
+   <a href="mailto:malice.rfort@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
    </a>   
    <a href="https://t.me/mariafortunato"> 
