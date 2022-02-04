@@ -2,8 +2,8 @@
 <div> 
   <ul>
     <li> Sou estudante do curso de Análise e Desenvolvimento de Sistemas.</li>
-    <li> Inicialmente estudava desenvolvimento web com HTML, CSS e JS.</li>
-    <li> Mas atualmente estudo desenvolvimento mobile com kotlin. </li>
+    <li> Iniciei estudando desenvolvimento web com HTML, CSS e JS. Estudei um pouco de desenvolvimento mobile com Kotlin e </li>
+    <li> atualmente estudo desenvolvimento mobile com Swift IOS./li>
   </ul>
  </div>
  <div align="center"> 
