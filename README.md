@@ -10,7 +10,7 @@
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariafortunato&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
-## <div display="flex" align-items="center">
+## <div display="flex" justify-content="center">
    <a href="https://www.linkedin.com/in/marialicefortunato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
    </a> 
