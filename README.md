@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafortunato&theme=bear&show_icons=true"/>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariafortunato&layout=compact&langs_count=7&theme=bear"/>
 </div>
-##
+
 <div align="center">
   <br>
    <a href="https://www.linkedin.com/in/marialicefortunato/" target="_blank">
