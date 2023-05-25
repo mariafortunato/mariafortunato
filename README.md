@@ -1,8 +1,8 @@
 <h2 font-size="12px" align="center"> Olá, eu sou Maria 👩‍💻 </h2>
 <div> 
   <ul>
-    <li> Sou estudante do curso de Análise e Desenvolvimento de Sistemas.</li>
-    <li> Iniciei estudando desenvolvimento web com HTML, CSS e JS. Estudei um pouco de desenvolvimento mobile com Kotlin e atualmente estudo desenvolvimento mobile com Swift IOS. </li>
+    <li> Sou estudante na 4ª do curso de Análise e Desenvolvimento de Sistemas.</li>
+    <li> Atualmente estudando desenvolvimento mobile com Swift IOS. </li>
   </ul>
  </div>
  <div align="center"> 
